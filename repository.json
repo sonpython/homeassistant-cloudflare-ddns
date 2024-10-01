@@ -1,4 +1,5 @@
 {
   "name": "Home Assistant Cloudflare updater",
-  "url": "https://github.com/sonpython/homeassistant-cloudflare-ddns"
+  "url": "https://github.com/sonpython/homeassistant-cloudflare-ddns",
+  "maintainer": "Michael Phan <sonpython@gmail.com>"
 }
