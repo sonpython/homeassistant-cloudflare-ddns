@@ -10,9 +10,9 @@ An add-on for Home Assistant to automatically update your Cloudflare DNS record 
 
 ## Installation
 
-1. Clone this repository to your Home Assistant `/addons` directory:
-   ```sh
-   git clone https://github.com/yourusername/homeassistant-cloudflare-ddns.git /addons/homeassistant-cloudflare-ddns
+1. Copy the git repo:
+   ```
+   https://github.com/sonpython/homeassistant-cloudflare-ddns.git
    ```
 
 2. Go to the Home Assistant web interface, and navigate to **Settings** -> **Add-ons** -> **Add-on Store**.
