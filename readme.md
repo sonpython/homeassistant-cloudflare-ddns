@@ -71,4 +71,4 @@ If you encounter any issues or have questions, please create an issue in this re
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.s# homeassistant-cloudflare-ddns
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.s
