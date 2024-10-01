@@ -1,0 +1,22 @@
+name: Cloudflare DDNS Updater
+version: "1.0"
+slug: cloudflare_ddns_updater
+description: An add-on to update Cloudflare DNS with your current public IP
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+startup: services
+boot: auto
+options:
+  cf_api_token: "YOUR_CLOUDFLARE_API_TOKEN"
+  zone_id: "YOUR_ZONE_ID"
+  record_name: "YOUR_RECORD_NAME"
+  update_interval: 300  # Thời gian cập nhật tính bằng giây (ví dụ: 300 giây = 5 phút)
+schema:
+  cf_api_token: str
+  zone_id: str
+  record_name: str
+  update_interval: int
