@@ -1,5 +1,5 @@
 name: Cloudflare DDNS Updater
-version: "1.0"
+version: "1.1"
 slug: cloudflare_ddns_updater
 description: An add-on to update Cloudflare DNS with your current public IP
 arch:
